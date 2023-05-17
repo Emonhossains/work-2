@@ -1,0 +1,443 @@
+/*
+*Device: Galaxy fold Mobile Phone
+*Skin Resulations: 279px to 319px 
+*/
+@media ( min-width: 279px) and ( max-width: 319px){
+
+}
+
+/*
+*Device: Most Of The Mobile Phones
+Skin Resulations: 320px to 480px 
+*/
+@media ( min-width: 320px) and ( max-width: 480px){
+	/*CSS START*/
+		.header .logo-s {
+		width: 24%;
+    	margin: 0px auto;
+		}
+		.header .menu{
+			padding-right: 35px;
+		}
+		.header .menu li a{
+		font-size: 12px;
+    	margin-left: -6px;
+		}
+		.header .search a img{
+		width: 4%;
+    	margin-top: -34px;
+    	margin-right: 27px;
+		}
+		.banner .title{
+			text-align: center;
+		}
+		.banner .title h1{
+		font-size: 58px;
+		}
+		.banner .title p{
+		font-size: 14px;
+		}
+		.banner .button{
+			text-align: center;
+		}
+		.button .btn.btn.primary{
+		font-size: 8px;
+    	font-weight: 600;
+    	font-family: 'Oswald', sans-serif;
+    	padding: 10px 35px;
+    	text-align: center;
+		}
+		.main p{
+		font-size: 9px;
+    	margin-top: -10px;
+		}
+		.rd-section .f-title{
+			width: 100%;
+		}
+		.feature-title{
+	 	margin-left: 0px;
+    	width: 100%;
+    	margin-bottom: 12px;
+    	}
+    	.p-title img{
+    	margin-left: 35px;
+    	width: 25%;
+    	}
+    	.price-titles h4{
+    	margin-right: 0px;
+    	}
+    	.price-title p{
+    	font-size: 10px;
+    	margin-top: -12px;
+    	}
+    	.price-titles{
+    	width: 100%;
+    	margin-bottom: 12px;
+    	}
+    	.dance{
+    	padding: 55px 0px;
+    	}
+    	.dance .Dance-title{
+
+    	}
+    	.Dance-title h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title p{
+    	font-size: 12px;
+    	margin-top: -12px;
+    	}
+    	.Dance-title .btn.btn.primary{
+    	padding: 8px 32px;
+    	}
+    	.Dance-2{
+    	padding: 55px 0px;
+    	}
+    	.Dance-title-two h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title-two p{
+    	font-size: 12px;
+    	margin-top: -18px;
+    	margin-bottom: 38px;
+    	}
+    	.Dance-title-two .btn.btn.primary{
+    	padding: 8px 32px;
+    	margin-bottom: -12px;
+    	margin-top: -70px;
+    	}
+    	.sta-title h1{
+    	padding-top: 40px;
+    	}
+    	.sta-title p{
+    	font-size: 12px;
+    	}
+    	.sta-title-two h1{
+    	margin-top: -60px;
+    	}
+    	.last{
+    	padding: 60px;
+    	}
+    	.last-title p{
+    		font-size: 9px;
+    	}
+    	.last-title h2{
+    	font-size: 38px;
+    	padding-top: 10px;
+    	}
+    	.subs-title p{
+    	font-size: 9px;
+    	padding-top: 15px;
+    	}
+    	.form-sec .form-control{
+    	width: 52%;
+    	margin-left: 24px;
+    	}
+    	.form-sec .btn.btn.primary{
+    	width: 29%;
+    	margin: 0px;
+    	font-size: 12px;
+    	}
+    	.footer .last-h{
+    	margin-left: -41px;
+    	padding-top: 20px;	
+    	}
+    	.footer{
+    	padding-left: 35px;
+    	}
+	/*CSS START*/
+}
+
+/*
+*Device: Most Of The Low Resulation Tablets
+*Skin Resulations: 481px to 767px 
+*/
+@media ( min-width: 481px) and ( max-width: 767px){
+		/*CSS START*/
+		.header .logo-s {
+		width: 24%;
+    	margin: 0px auto;
+		}
+		.header .menu{
+			padding-right: 35px;
+		}
+		.header .menu li a{
+		font-size: 12px;
+    	margin-left: -6px;
+		}
+		.header .search a img{
+		width: 4%;
+    	margin-top: -34px;
+    	margin-right: 27px;
+		}
+		.banner .title{
+			text-align: center;
+		}
+		.banner .title h1{
+		font-size: 58px;
+		}
+		.banner .title p{
+		font-size: 14px;
+		}
+		.banner .button{
+			text-align: center;
+		}
+		.button .btn.btn.primary{
+		font-size: 8px;
+    	font-weight: 600;
+    	font-family: 'Oswald', sans-serif;
+    	padding: 10px 35px;
+    	text-align: center;
+		}
+		.main p{
+		font-size: 9px;
+    	margin-top: -10px;
+		}
+		.rd-section .f-title{
+			width: 100%;
+		}
+		.feature-title{
+	 	margin-left: 42px;
+    	width: 82%;
+    	margin-bottom: 12px;
+    	}
+    	.p-title img{
+    	margin-left: 35px;
+    	}
+    	.price-titles h4{
+    	margin-right: 0px;
+    	}
+    	.price-title p{
+    	font-size: 10px;
+    	margin-top: -12px;
+    	}
+    	.price-titles{
+    	width: 100%;
+    	margin-bottom: 12px;
+    	}
+    	.dance{
+    	padding: 55px 0px;
+    	}
+    	.dance .Dance-title{
+
+    	}
+    	.Dance-title h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title p{
+    	font-size: 12px;
+    	margin-top: -12px;
+    	}
+    	.Dance-title .btn.btn.primary{
+    	padding: 8px 32px;
+    	}
+    	.Dance-2{
+    	padding: 55px 0px;
+    	}
+    	.Dance-title-two h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title-two p{
+    	font-size: 12px;
+    	margin-top: -18px;
+    	margin-bottom: 38px;
+    	}
+    	.Dance-title-two .btn.btn.primary{
+    	padding: 8px 32px;
+    	margin-bottom: -12px;
+    	margin-top: -70px;
+    	}
+    	.sta-title h1{
+    	padding-top: 40px;
+    	}
+    	.sta-title p{
+    	font-size: 12px;
+    	}
+    	.sta-title-two h1{
+    	margin-top: -60px;
+    	}
+    	.last{
+    	padding: 60px;
+    	}
+    	.last-title p{
+    		font-size: 9px;
+    	}
+    	.last-title h2{
+    	font-size: 38px;
+    	padding-top: 10px;
+    	}
+    	.subs-title p{
+    	font-size: 9px;
+    	padding-top: 15px;
+    	}
+    	.form-sec .form-control{
+    	width: 52%;
+    	margin-left: 24px;
+    	}
+    	.form-sec .btn.btn.primary{
+    	width: 29%;
+    	margin: 0px;
+    	font-size: 12px;
+    	}
+    	.footer .last-h{
+    	margin-left: -41px;
+    	padding-top: 20px;	
+    	}
+    	.footer{
+    	padding-left: 35px;
+    	}
+	/*CSS START*/
+}
+
+/*
+*Device: Most Of The tablets, ipad, mini notebook
+*Skin Resulations: 768px to 1024px 
+*/
+@media ( min-width: 768px) and ( max-width: 1024px){
+		/*CSS START*/
+		.header .logo-s {
+		width: 24%;
+    	margin: 0px auto;
+		}
+		.header .menu{
+			padding-right: 35px;
+		}
+		.header .menu li a{
+		font-size: 12px;
+    	margin-left: -6px;
+		}
+		.header .search a img{
+		width: 4%;
+    	margin-top: -34px;
+    	margin-right: 27px;
+		}
+		.banner .title{
+			text-align: center;
+		}
+		.banner .title h1{
+		font-size: 58px;
+		}
+		.banner .title p{
+		font-size: 14px;
+		}
+		.banner .button{
+			text-align: center;
+		}
+		.button .btn.btn.primary{
+		font-size: 8px;
+    	font-weight: 600;
+    	font-family: 'Oswald', sans-serif;
+    	padding: 10px 35px;
+    	text-align: center;
+		}
+		.main p{
+		font-size: 9px;
+    	margin-top: -10px;
+		}
+		.rd-section .f-title{
+			width: 100%;
+		}
+		.feature-title{
+	 	margin-left: 161px;
+    	width: 54%;
+    	margin-bottom: 12px;
+    	}
+    	.p-title img{
+    	margin-left: 35px;
+    	}
+    	.price-titles h4{
+    	margin-right: 0px;
+    	}
+    	.price-title p{
+    	font-size: 10px;
+    	margin-top: -12px;
+    	}
+    	.price-titles{
+    	width: 93%;
+    	margin-bottom: 12px;
+    	margin-bottom: 12px;
+    	}
+    	.dance{
+    	padding: 55px 0px;
+    	}
+    	.price{
+    	margin-left: 24px;
+    	}
+    	.price .p-title {
+    	width: 87%;
+    	float: left;
+    	padding-top: 65px;
+		}
+    	.Dance-title h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title p{
+    	font-size: 12px;
+    	margin-top: -12px;
+    	}
+    	.Dance-title .btn.btn.primary{
+    	padding: 8px 32px;
+    	}
+    	.Dance-2{
+    	padding: 55px 0px;
+    	}
+    	.Dance-title-two h1{
+    	font-size: 41px;
+    	margin-right: 14px;
+    	}
+    	.Dance-title-two p{
+    	font-size: 12px;
+    	margin-top: -18px;
+    	margin-bottom: 38px;
+    	}
+    	.Dance-title-two .btn.btn.primary{
+    	padding: 8px 32px;
+    	margin-bottom: -12px;
+    	margin-top: -70px;
+    	}
+    	.sta-title h1{
+    	padding-top: 40px;
+    	}
+    	.sta-title p{
+    	font-size: 12px;
+    	}
+    	.sta-title-two h1{
+    	margin-top: -60px;
+    	}
+    	.last{
+    	padding: 60px;
+    	}
+    	.last-title p{
+    		font-size: 9px;
+    	}
+    	.last-title h2{
+    	font-size: 38px;
+    	padding-top: 10px;
+    	}
+    	.subs-title p{
+    	font-size: 9px;
+    	padding-top: 15px;
+    	}
+    	.form-sec .form-control{
+    	width: 52%;
+    	margin-left: 24px;
+    	}
+    	.form-sec .btn.btn.primary{
+    	width: 29%;
+    	margin: 0px;
+    	font-size: 12px;
+    	}
+    	.footer .last-h{
+    	margin-left: -41px;
+    	padding-top: 20px;	
+    	}
+    	.footer{
+    	padding-left: 35px;
+    	}
+	/*CSS START*/
+}
